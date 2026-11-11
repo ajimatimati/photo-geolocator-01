@@ -1,0 +1,17 @@
+{
+  "name": "photo-geolocator-01",
+  "version": "1.0.0",
+  "description": "Model-free aspect-ratio and spatial-centroid geolocator",
+  "main": "main.ts",
+  "type": "module",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "keywords": [
+    "geolocator",
+    "street-view",
+    "makefun"
+  ],
+  "author": "Olalekan Ajimati",
+  "license": "MIT"
+}
